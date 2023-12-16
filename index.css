@@ -28,3 +28,9 @@ a{
 .box{
     padding: 50px 1px;
 }
+
+.topnav{
+    font-size: 50px;
+    background-color: rgba(48, 114, 237, 0.778)
+    
+}
